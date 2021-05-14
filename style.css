@@ -1,0 +1,78 @@
+body {
+  text-align: center;
+  font-family: 'Merriweather';
+  background: rgb(208,199,178);
+  background: linear-gradient(0deg, rgba(208,199,178,1) 27%, rgba(249,248,211,1) 65%, rgba(250,247,247,1) 80%);
+}
+  #main {
+  text-align: center;
+}
+img {
+  max-width: 100%;
+  display: block;
+  margin: auto;
+}
+#img-div {
+  max-width: 100%;  
+  background-size: 25%;
+  padding: 10px;
+  }
+#img-caption {
+  color:saddlebrown ;
+  background-color:antiquewhite;
+  opacity: 0.6;
+  font-size: 30px;
+  font-family: 'Cutive Mono';
+  font-weight: bold;
+  display: auto;
+  padding-top: 20px;
+  padding: 5px;
+  font-weight: bold;
+}
+ul {
+  text-align: left;
+  width: 50%;
+  margin: auto; 
+}
+#tribute-quote {
+  font-family: 'Homemade Apple';
+  font-size: 25px;
+  font-style: italic;
+  padding: 10px;
+ 
+}
+#tribute-info {
+  font-size: 20px;
+}
+
+h3 {
+  margin-bottom: 20px;
+}    
+#table {
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 25px;
+}
+
+#footer {
+  padding-bottom: 50px;
+}
+h1 {
+  font-size: 60px;
+  padding-top: 20px;
+}
+#subtitle {
+  font-size: 40px;
+  padding-bottom: 20px;
+  opacity: 1.0;
+  font-family: 'Mansalva';
+}
+
+#best_novels {
+  font-size: 45px;
+}
+
+#portada {
+  background-image: url(imagenes/libros4.jpg);
+  background-position: 50%, 50%;
+}
