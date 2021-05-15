@@ -73,6 +73,6 @@ h1 {
 }
 
 #portada {
-  background-image: url(./libros4.jpg);
+  background-image: url('./libros4.jpg');
   background-position: 50%, 50%;
 }
