@@ -1,7 +1,6 @@
 body {
   text-align: center;
   font-family: 'Merriweather';
-  background: rgb(208,199,178);
   background: linear-gradient(0deg, rgba(208,199,178,1) 27%, rgba(249,248,211,1) 65%, rgba(250,247,247,1) 80%);
 }
   #main {
