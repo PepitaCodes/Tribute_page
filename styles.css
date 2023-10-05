@@ -2,6 +2,8 @@ body {
   text-align: center;
   font-family: 'Merriweather';
   background: linear-gradient(0deg, rgba(208,199,178,1) 27%, rgba(249,248,211,1) 65%, rgba(250,247,247,1) 80%);
+  margin: 0;
+  padding: 0;
 }
 #main {
   text-align: center;
@@ -90,6 +92,6 @@ h1 {
   color: #868268;
 }
 
-.dib {
+.dib, b {
   display: inline-flex;
 }
