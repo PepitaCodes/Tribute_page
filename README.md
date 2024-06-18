@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is part of the Responsive Web Design Certification offered by freeCodeCamp. It involves building a tribute page that closely resembles the example provided at [freeCodeCamp Survey Form](https://tribute-page.freecodecamp.rocks/).
+This project is part of the Responsive Web Design Certification offered by freeCodeCamp. It involves building a tribute page that closely resembles the example provided at [freeCodeCamp Tribute Page](https://tribute-page.freecodecamp.rocks/).
 
 ## Project Details
 
