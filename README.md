@@ -31,5 +31,5 @@ This project is part of the Responsive Web Design Certification offered by freeC
 
 ## Deployment
 
-- Visit the [deployed version](https://https://pepitacodes.github.io/tribute_page/) to see the survey form in action.
+- Visit the [deployed version](https://pepitacodes.github.io/tribute_page/) to see the survey form in action.
 
