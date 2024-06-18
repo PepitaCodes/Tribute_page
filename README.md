@@ -28,3 +28,8 @@ This project is part of the Responsive Web Design Certification offered by freeC
    - Use `git clone` [https://github.com/pepitacodes/tribute_page.git](https://github.com/pepitacodes/tribute_page.git)  
    - Open the project folder.  
    - Open `index.html` in your preferred web browser.
+
+## Deployment
+
+- Visit the [deployed version](https://https://pepitacodes.github.io/tribute_page/) to see the survey form in action.
+
