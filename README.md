@@ -23,8 +23,8 @@ This project is part of the Responsive Web Design Certification offered by freeC
 
 ## Installation
 
-1. **Clone the Repository**:
+**Clone the Repository**:
 
-   -Use git clone [https://repository.git](https://github.com/pepitacodes/tribute_page.git)
-   -Open the project folder.
-   -Open index.html in your preferred web browser.
+   - Use `git clone [tribute_page.git](https://github.com/pepitacodes/tribute_page.git)`  
+   - Open the project folder.  
+   - Open `index.html` in your preferred web browser.
